@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeFileUpload MVC", "SafeFileUpload MVC\SafeFileUpload MVC.csproj", "{2BAD8642-B4B1-4E0E-B40D-B818A26D0BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAD8642-B4B1-4E0E-B40D-B818A26D0BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAD8642-B4B1-4E0E-B40D-B818A26D0BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAD8642-B4B1-4E0E-B40D-B818A26D0BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAD8642-B4B1-4E0E-B40D-B818A26D0BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {048B7F46-0098-4268-A0D7-68B4FEE5C053}
+	EndGlobalSection
+EndGlobal
